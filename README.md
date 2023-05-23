@@ -1,1 +1,1 @@
-# Hotel-Desktop-Mobile-Template
+# Hotel-Desktop Template
